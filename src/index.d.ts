@@ -1,4 +1,4 @@
-declare module '@npsingh/react-native-apple-payment' {
+declare module '@np-singh/react-native-apple-payment' {
   type Network = 'Visa' | 'MasterCard' | 'AmEx';
 
   export type SupportedNetworks = Network[];
