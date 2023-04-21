@@ -1,5 +1,5 @@
 {
-  "name": "react-native-apple-payment",
+  "name": "@npsingh/react-native-apple-payment",
   "version": "1.2.0",
   "description": "Apple Pay implementation for React Native",
   "main": "src/index",
@@ -31,7 +31,7 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/yevheniionipko/react-native-apple-payment",
+  "repository": "https://github.com/npsingh/react-native-apple-payment",
   "author": "Yevhenii Onipko <y.onipko@kyivstar.net> (https://github.com/yevheniionipko)",
   "license": "MIT",
   "bugs": {
